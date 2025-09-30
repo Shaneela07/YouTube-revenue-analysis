@@ -36,3 +36,6 @@ represent the total uploads.
 14. Create a dashboard with 3 important visuals.
 15. From the Power BI Service, download the copy of your report in a
 pdf/ppt format.
+
+<img width="1906" height="915" alt="image" src="https://github.com/user-attachments/assets/8d75c0a6-61a5-4067-897c-6d458ea675ab" />
+

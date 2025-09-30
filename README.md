@@ -39,3 +39,68 @@ pdf/ppt format.
 
 <img width="1906" height="915" alt="image" src="https://github.com/user-attachments/assets/8d75c0a6-61a5-4067-897c-6d458ea675ab" />
 
+## Key Findings and Visuals
+
+Maximum Uploads (Card Visual)
+---
+The channel "T-Series" records the highest number of uploads globally, demonstrating high production output and broad audience reach.
+
+Minimum View Ranks (Card Visual)
+---
+Several niche channels hold the lowest view ranks, highlighting under-served content categories and opportunities for new entrants.
+
+Average Views—Last 30 Days (Card Visual, Cleansed)
+---
+Data cleansing was performed to eliminate outliers and missing entries, resulting in an accurate measure of average views per channel over the past month.
+
+Title & Max Uploads > 200,000 (Line Chart)
+---
+Only a selective group of channels, led by T-Series, exceeded 200,000 uploads; these were highlighted in a comparative line chart to showcase the output scale.
+
+Spider Map (Radar Chart): Channel Type & Rank
+---
+A radar chart visually mapped the correlation between channel type ("Music," "Entertainment," "Games," etc.) and their rank, helping identify top-performing categories.
+
+Packed Bubble Chart: Category-wise Subscribers
+---
+Categories like Music and Entertainment dominate subscriber counts, with bubbles sized to reflect follower magnitude across genres.
+
+Calculated Column: Views per Subscriber ("Viewed by Subscriber")
+---
+A new metric was introduced to measure average views per subscriber per channel, enabling benchmarking of audience engagement efficiency.
+
+Table Visual: Channel Type & Views per Subscriber
+---
+Tabulated data provides a clear comparison of which channel types drive the most engagement per subscriber.
+
+Measure: Total Uploads & Card Visuals
+---
+Aggregate total uploads across all channels were calculated and visually represented to display the platform’s content production scale.
+
+Decomposition Tree: Rank-wise Categories
+---
+A dynamic tree visual was created to break down categories by channel rank, revealing how top channels cluster and compete within genres.
+
+Blank Navigation Button
+---
+Navigational elements were added to facilitate switching between report pages in Power BI.
+
+Best Practices and Recommendations
+---
+Formatting
+All report pages include descriptive headings and logos, ensuring professional presentation in dashboards and exports.
+
+Publishing
+---
+The report is published to the Power BI Service for collaborative access and dynamic dashboard creation.
+
+Dashboard
+---
+A concise dashboard features the three most compelling visuals: average recent views, category-wise subscribers, and total uploads.
+
+Exports
+---
+Reports are downloadable from Power BI Service as PDF or PPT files, supporting easy sharing and offline review.
+
+
+
